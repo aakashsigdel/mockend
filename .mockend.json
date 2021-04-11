@@ -1,0 +1,8 @@
+{
+  "Channel": {
+    "artist": "string",
+    "title": "string",
+    "release_date": "date",
+    "genres": "string[]"
+  }
+}
